@@ -1,0 +1,19 @@
+Dear Madam,
+
+I completed the task, CRUD(Create, Read, Update, Delete) operation using MEAN technologies.
+But i took lang time to complete sorry about that.
+
+
+Start the project
+
+1. npm install
+2. node index.js
+3. ng serve --port 5000
+
+
+
+Thank you
+
+
+
+
